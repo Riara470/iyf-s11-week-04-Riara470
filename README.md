@@ -3,7 +3,7 @@
 This repository contains all exercises and mini-projects for Week 04 of the IYF S11 programming course. The focus of this week was building core JavaScript skills: variables, functions, loops, arrays, objects, and problem-solving.
 
 ## 🎯 Learning Objectives
-By the end of Week 04, I was able to:
+By the end of Week 04, I was able to do the following:
 - **Variables & Data Types**: Declare and manipulate `let`, `const`, strings, numbers, booleans
 - **Functions**: Write reusable functions with parameters, return values, and arrow functions
 - **Control Flow**: Use `if/else`, `switch`, and loops to handle logic
